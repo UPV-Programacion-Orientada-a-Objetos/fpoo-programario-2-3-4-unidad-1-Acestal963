@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioCuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDiez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioNueve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioOcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioSeis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioSiete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/EjercicioTrece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioCatorcce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDIeciseis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDOce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDeciocho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDiecinueve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDiecisiete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioQuince.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioVeinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioVeinteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/EjercicioUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/EjercicioUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioUno_Uno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Numero_Mayor_1_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/EjercicioDoce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasRepetitivas/EjercicioDoce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDiez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/EjercicioDiez.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Numero_Mayor_1_1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Numero_Mayor_1_1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Numero_Mayor_1_1Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,7 @@
       <recent name="junit.framework.TestCase" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.upvictoria.fpoo.EstructurasSelectivas" />
       <recent name="edu.upvictoria.fpoo" />
       <recent name="edu.upvictoria.fpoo.EstructurasSecuenciales" />
     </key>
@@ -114,7 +115,7 @@
       <workItem from="1706846227147" duration="8503000" />
       <workItem from="1706868240693" duration="5030000" />
       <workItem from="1706890456152" duration="2901000" />
-      <workItem from="1706920895608" duration="1656000" />
+      <workItem from="1706920895608" duration="12468000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>
