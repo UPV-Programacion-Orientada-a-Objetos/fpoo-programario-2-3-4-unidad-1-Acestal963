@@ -1,10 +1,22 @@
-package edu.upvictoria.fpoo.EstructurasSecuenciales;
+package edu.upvictoria.fpoo.EstructurasSelectivas;
+import edu.upvictoria.fpoo.EstructurasRepetitivas.EjercicioDoce;
+
+import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-import java.io.BufferedReader;
+public class EjercicioUno {
 
-public class EjercicioUno_Uno {
-    public EjercicioUno_Uno()throws IOException{
+
+    public double Numero_Mayor(double a, double b){
+        double mayor=0;
+        if(a>b){
+            mayor=a;
+        }else if(b>a){
+            mayor=b;
+        }
+        return mayor;
+    }
+    public EjercicioUno ()throws IOException{
         BufferedReader leer=new BufferedReader(new InputStreamReader(System.in));
         String entrada;
         System.out.println("Ejercico Uno");
@@ -18,11 +30,9 @@ public class EjercicioUno_Uno {
         System.out.println("Ingrese el segundo valor");
         entrada=leer.readLine();
         b=Double.parseDouble(entrada);
-        Numero_Mayor_1_1 pr=new Numero_Mayor_1_1();
-        System.out.println("EL numero mayor es: "+pr.Num_May_Men(a,b));
 
+        System.out.println("EL numero mayor es: "+Numero_Mayor(a,b));
 
 
     }
-
 }

@@ -1,6 +1,5 @@
 package edu.upvictoria.fpoo;
 
-import edu.upvictoria.fpoo.EstructurasSecuenciales.Numero_Mayor_1_1;
 import junit.framework.TestCase;
 
 public class Numero_Mayor_1_1Test extends TestCase {

@@ -1,5 +1,4 @@
 package edu.upvictoria.fpoo.EstructurasRepetitivas;
-import edu.upvictoria.fpoo.EstructurasSecuenciales.EjercicioUno_Uno;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
